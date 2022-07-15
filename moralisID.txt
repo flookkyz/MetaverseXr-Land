@@ -1,0 +1,2 @@
+REACT_APP_SERVER_URL=https://lszv5o1dhhdo.usemoralis.com:2053/server
+REACT_APP_SERVER_APP_ID=7uSdnTrQhSKYkRj32Hb1WwEz7FyLdQoxXlsrzYH5
